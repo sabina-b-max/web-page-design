@@ -19,7 +19,9 @@ nav{
     align-items: center;
 }
 nav .Logo{
-    width: 25%;text-align: left;
+    width: 105px;height: 105px;display: inline-flex;
+
+    
 }
 nav .menu{
     width: 50%;
