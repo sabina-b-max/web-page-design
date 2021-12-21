@@ -56,7 +56,7 @@ nav .menu a{
     letter-spacing: 2px;
 }
 .abc{
-    text-decoration: blueviolet;
+    text-decoration: none;
     display: inline-flex;
     justify-content:space-evenly;
     color: black;
